@@ -1,0 +1,1 @@
+g++ *.cpp -lssh -lpthread  -Wall -Wextra -g3 -o ssh
